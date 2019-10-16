@@ -86,3 +86,5 @@ Press button or type c to lock (if unlocked), or unlock if the correct face is d
 Press Ctrl-C to quit.
 ```
 在键盘上键入`C`用于锁定和解锁,成功解锁及锁定。
+
+项目中有演示视频(人脸识别.mp4)可供参考。
